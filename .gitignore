@@ -1,0 +1,11 @@
+.vs
+Payment.Common/bin
+Payment.Common/obj
+Payment.Data/bin
+Payment.Data/obj
+Payment.Presentation/bin
+Payment.Presentation/obj
+Payment.Repository/bin
+Payment.Repository/obj
+Payment.Services/bin
+Payment.Services/obj
